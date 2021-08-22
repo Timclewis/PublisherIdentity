@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="220b771b-9b8b-4c9e-a59d-8b03fd8db483" name="Backup" url="http://localhost">
+        <fileTransfer mountedRoot="G:\My Drive\Python Projects\Tensorflow\publisherIdentify" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
